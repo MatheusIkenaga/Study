@@ -1,0 +1,6 @@
+﻿1	2019-04-16	Pós-trabalho	32	25	NULL	2200	QUARTA-FEIRA	150
+2	2019-04-17	Pós-trabalho	35	31	NULL	2400	QUINTA-FEITA - DEPOIS DISSO FIZ 20 ABS ATÉ A FALHA E MAIS 9 E 12 FLEXÕES - FALHA	210
+3	2019-04-22	Pós-trabalho	38	26	NULL	2300	SEGUNDA-FEITA	200
+4	2019-04-23	Pós-trabalho	37	32	NULL	2500	TERÇA-FEIRA, Boa alimentação e muita motivação	240
+5	2019-04-24	Pós-trabalho	42	32	NULL	2700	QUARTA-FEIRA, boa alimentação e café da manhã, porem energetico a noite deu insonia	290
+6	2019-04-25	Pós-trabalho	42	32	NULL	2700	QUINTA-FEIRA,poderia ter ido melhor, porém má alimentação e sono ruim	290

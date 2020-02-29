@@ -1,0 +1,39 @@
+*ALTA COESÃO E BAIXO ACOMPLAMENTO*
+
+
+
+ALTA COESÃO
+- CLASSES COM RESPONSABILIDADS ÚNICAS
+
+BAIXO ACOPLAMENTO
+- CLASSES COM POUCAS DEPENDÊNCIAS
+
+
+Quanto mais um codigo depende de uma classe, mais alto o acomplamento
+
+--------------------------------
+
+
+"final" em java 
+
+Na Classe
+
+Ela nao pode ser herdada
+
+
+Na variavel:
+
+ private final double valor  = constante de double(valor)
+
+-------------------------------
+
+diferenca entre chain of responsability
+
+ambos usam interface
+
+a diferenca é que no strategy
+Cada classe faz o trabalho dela e "acaba ali"
+
+No Chain
+Uma classe aplica o que foi programada e quando a regra nao funciona mais
+ela chama outra classe que também usa a mesma interface

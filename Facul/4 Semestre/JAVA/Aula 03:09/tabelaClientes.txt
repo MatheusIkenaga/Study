@@ -1,0 +1,15 @@
+CREATE TABLE `banco`.`clientes` (
+  `idclientes` INT NOT NULL AUTO_INCREMENT COMMENT '',
+  `nome` VARCHAR(45) NULL COMMENT '',
+  `cpf` VARCHAR(45) NULL COMMENT '',
+  `endereco` VARCHAR(45) NULL COMMENT '',
+  `telefone` VARCHAR(45) NULL COMMENT '',
+  `dataNasc` DATE NULL COMMENT '',
+  `dataRegistro` DATE NULL COMMENT '',
+  PRIMARY KEY (`idclientes`)  COMMENT '');
+  
+  
+  insert into clientes (nome, cpf, endereco, telefone, dataNasc) values ("Fulano","123456789","Rod. Anchieta","123456789",STR_TO_DATE ("10/2009", "%m/%Y"));
+  insert into clientes (nome, cpf, endereco, telefone, dataNasc) values ("Cicrano","987654321","Rua Vergueiro","987654321",STR_TO_DATE ("12/2019", "%m/%Y"));
+  
+  select * from clientes;

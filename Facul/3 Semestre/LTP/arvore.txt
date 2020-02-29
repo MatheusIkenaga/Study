@@ -1,0 +1,43 @@
+#include<stdio.h> 
+#include<conio.h> 
+#include<stdlib.h> 
+
+typedef struct arv{
+	char info;
+	struct arv* esq;
+	struct arv* dir;
+}Arv;
+
+Arv * inicializa(){
+	return NULL;
+}
+
+Arv* cria(char c, Arv* sae, Arv* sad){
+	Arv* novo = (Arv*)malloc(sizeof(Arv));
+	novo->info=c;
+	novo->esq=sae;
+	novo->dir=sad;
+	return novo;
+}
+int vazia(Arv*a){
+	return a==NULL;
+}
+void imprimePre(Arv*a){
+	if(!vazia(a)){
+		printf("%c ", a->info);
+		imprimePre(a->esq);
+		imprimePre(a->dir);
+	}
+}
+void main(){
+	Arv* a2=cria('r', inicializa(),inicializa());
+	Arv* a3=cria('u', inicializa(),inicializa());
+	Arv* a4=cria('s', a2,a3);
+	Arv* a5=cria('f', inicializa(),inicializa());
+	Arv* a1=cria('d', inicializa(),a5);
+	Arv* a6=cria('g', a1,inicializa());
+	Arv* a7=cria('m', a6,a4);
+
+	imprimePre(a7);
+	printf("\n");
+}

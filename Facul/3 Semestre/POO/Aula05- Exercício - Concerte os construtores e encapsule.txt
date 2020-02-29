@@ -1,0 +1,31 @@
+    class Data
+    {
+        public int dia, mes, ano;
+        public override string ToString()
+        {
+            return Convert.ToString(this.dia) + "/" + Convert.ToString(this.mes) + "/" + Convert.ToString(this.ano);
+        }
+    }
+    class Pessoa{
+        public string nome;
+        public Data nasc;
+
+        public override string ToString()
+        {
+
+            return this.nome + "\n" + nasc.ToString();
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Data d1=new Data(01,04,2000);
+            Pessoa p1=new Pessoa("Florisberto",d1);
+            Pessoa p2=new Pessoa("Jacobina",25,11,1967);
+            /*p2.nasc.ano = 1970; */
+            Console.WriteLine(p1);
+            Console.WriteLine(p2);
+        }
+    }

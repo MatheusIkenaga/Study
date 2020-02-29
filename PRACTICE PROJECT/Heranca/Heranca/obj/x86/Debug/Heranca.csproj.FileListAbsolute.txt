@@ -1,0 +1,4 @@
+C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\Heranca\Heranca\bin\Debug\Heranca.exe
+C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\Heranca\Heranca\bin\Debug\Heranca.pdb
+C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\Heranca\Heranca\obj\x86\Debug\Heranca.exe
+C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\Heranca\Heranca\obj\x86\Debug\Heranca.pdb

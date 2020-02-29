@@ -1,0 +1,14 @@
+Diagramas
+
+-Componentes
+-Maq Estado
+
+Ou locadora ou Biblioteca
+
+
+Design Patterns
+-Observer
+-Singleton
+-Adapter
+-Chain-Of-Responsibility
+-Singleton
