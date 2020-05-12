@@ -1,4 +1,0 @@
-C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\interface\interface\bin\Debug\@interface.exe
-C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\interface\interface\bin\Debug\@interface.pdb
-C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\interface\interface\obj\x86\Debug\@interface.exe
-C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\interface\interface\obj\x86\Debug\@interface.pdb
