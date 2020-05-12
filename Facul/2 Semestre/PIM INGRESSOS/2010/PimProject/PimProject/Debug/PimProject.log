@@ -1,0 +1,14 @@
+﻿  codePIM.cpp
+e:\2010\pimproject\pimproject\codepim.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+e:\2010\pimproject\pimproject\codepim.cpp(29): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+e:\2010\pimproject\pimproject\codepim.cpp(36): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+e:\2010\pimproject\pimproject\codepim.cpp(47): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+e:\2010\pimproject\pimproject\codepim.cpp(56): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+e:\2010\pimproject\pimproject\codepim.cpp(12): warning C4101: 'deficiente' : unreferenced local variable
+codePIM.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  PimProject.vcxproj -> E:\2010\PimProject\Debug\PimProject.exe

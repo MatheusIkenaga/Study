@@ -1,0 +1,4 @@
+C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\Erros1\Erros1\bin\Debug\Erros1.exe
+C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\Erros1\Erros1\bin\Debug\Erros1.pdb
+C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\Erros1\Erros1\obj\x86\Debug\Erros1.exe
+C:\Users\Matheus Ikenaga\Desktop\PRACTICE PROJECT\Erros1\Erros1\obj\x86\Debug\Erros1.pdb
