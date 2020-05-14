@@ -1,0 +1,144 @@
+﻿*{
+    padding: 0;
+    margin: 0;
+    border: 0px;
+    font-family: "Courier New";
+}
+
+body{
+    display: inline;
+}
+
+h1{
+    background-color: #333;
+    padding: 2%;
+}
+
+div.TitleMenu {
+    position: fixed;
+    background-color: #333;
+    width: 100%;
+    align-items: center;
+    margin-bottom: 20px;
+}
+  
+div.TitleMenu a {
+    display: inline-flex;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+  
+div.TitleMenu a:hover {
+    background-color: #777;
+}
+
+
+#personagens {
+    background-color: rgb(24, 24, 24);
+    width: 100%;
+    display: flex;
+    border: 0px;
+    margin: 0px;
+}
+
+#Thomas{
+    background-color: rgb(78, 78, 78);
+    display: flex;
+    width: 33%;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+#Grace{
+    background-color: rgb(78, 78, 78);
+    display: flex;
+    width: 33%;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px 10px 10px 0px;
+}
+#Arthur{
+    background-color: rgb(78, 78, 78);
+    display: flex;
+    width: 33%;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px 10px 10px 0px;
+}
+
+.description{
+    width: 50%;
+    padding: 15px;
+    background-color: rgb(78, 78, 78);
+}
+.description h1{
+    background-color: rgb(78, 78, 78);
+    padding: 0px;
+}
+
+.description h1{
+    margin-bottom: 20px;
+}
+
+#Thomas img{
+    border-radius: 10px;
+}
+#Grace img{
+    border-radius: 10px;
+}
+#Arthur img{
+    border-radius: 10px;
+}
+
+
+.title {
+    background-color: #333;
+}
+
+.text{
+    background-color: #333;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+.footer{
+    background-color: #333;
+    width: 13%;
+}
+
+.footer a {
+    display: grid;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.rodape{
+    display: flex;
+    height: 30%;
+    background-color: #333;
+}
+
+#sobreimg img{
+    float: right;
+    width: 100px;
+    height: auto;
+    border-radius: 20px 20px 20px 20px;
+    padding: 5px;
+    margin-top: 42%;
+}
+
+#sobre{
+    padding-top: 80px;
+    width: 87%;
+    text-align: center;
+}
+
